@@ -1,0 +1,21 @@
+<svg id="close_icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_396" data-name="Path 396" d="M9.636-15.253l3.111-3.111.889.889-3.111,3.111,3.111,3.111-.889.889L9.636-13.475,6.525-10.364l-.889-.889,3.111-3.111L5.636-17.475l.889-.889Z" transform="translate(-5.636 18.364)" fill="#fff"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Path_395" data-name="Path 395" d="M-416-246.376H1937.236V-1824H-416Z" transform="translate(416 1824)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Ellipse_21" data-name="Ellipse 21" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="1">
+    <circle cx="8" cy="8" r="8" stroke="none"/>
+    <circle cx="8" cy="8" r="7.5" fill="none"/>
+  </g>
+  <g id="Group_735" data-name="Group 735" transform="translate(-1.636 22.364)">
+    <g id="Group_734" data-name="Group 734" transform="translate(5.636 -18.364)" clip-path="url(#clip-path)">
+      <g id="Group_733" data-name="Group 733" transform="translate(-265.013 -1134.906)" clip-path="url(#clip-path-2)">
+        <path id="Path_394" data-name="Path 394" d="M.636-23.364H14.921V-9.079H.636Z" transform="translate(261.234 1155.128)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

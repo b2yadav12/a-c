@@ -1,0 +1,15 @@
+<svg id="visit_icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="8.983" height="14" viewBox="0 0 8.983 14">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_440" data-name="Path 440" d="M6.8-17.788,8.89-19.309A1.3,1.3,0,0,1,9.7-19.56a1.709,1.709,0,0,1,1.586,1.189,2.882,2.882,0,0,0,.333.772,3.261,3.261,0,0,0,2.612,1.305v1.307A4.564,4.564,0,0,1,10.7-16.651l-.455,2.584,1.346,1.13,1.452,3.99L11.818-8.5l-1.333-3.661L8.271-14.02a1.307,1.307,0,0,1-.466-1.244l.333-1.885-.442.321-1.39,1.913-1.057-.768L6.785-17.8Zm3.843-2.1a1.307,1.307,0,0,1-1.307-1.307A1.307,1.307,0,0,1,10.639-22.5a1.307,1.307,0,0,1,1.307,1.307A1.307,1.307,0,0,1,10.639-19.887ZM8.7-11.276l-2.1,2.5-1-.839L7.541-11.93l.487-1.424,1.17.98Z" transform="translate(-5.249 22.5)" fill="#b1b1b1"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Path_439" data-name="Path 439" d="M-2212,862.757H233.917V-777H-2212Z" transform="translate(2212 777)" fill="#b1b1b1"/>
+    </clipPath>
+  </defs>
+  <g id="Group_799" data-name="Group 799" clip-path="url(#clip-path)">
+    <g id="Group_798" data-name="Group 798" transform="translate(-1448.506 -492.907)" clip-path="url(#clip-path-2)">
+      <path id="Path_438" data-name="Path 438" d="M.249-27.5H15.765V-6.967H.249Z" transform="translate(1444.991 517.141)" fill="#b1b1b1"/>
+    </g>
+  </g>
+</svg>

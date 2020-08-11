@@ -1,0 +1,17 @@
+<svg id="add-someonelse-icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="19" height="21" viewBox="0 0 19 21">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_447" data-name="Path 447" d="M14-8.748V-1H4A8,8,0,0,1,7.1-7.326,8,8,0,0,1,14-8.748ZM12-10a6,6,0,0,1-6-6,6,6,0,0,1,6-6,6,6,0,0,1,6,6A6,6,0,0,1,12-10Zm6,4V-9h2v3h3v2H20v3H18V-4H15V-6Z" fill="#00b0c4"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Path_446" data-name="Path 446" d="M-2920,2054H824V-456H-2920Z" fill="#00b0c4"/>
+    </clipPath>
+  </defs>
+  <g id="else_icon">
+    <g id="Group_816" data-name="Group 816" transform="translate(-4 22)" clip-path="url(#clip-path)">
+      <g id="Group_815" data-name="Group 815" clip-path="url(#clip-path-2)">
+        <path id="Path_445" data-name="Path 445" d="M-1-27H28V4H-1Z" fill="#00b0c4"/>
+      </g>
+    </g>
+  </g>
+</svg>

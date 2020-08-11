@@ -1,0 +1,15 @@
+<svg id="chat_icon_s" xmlns="http://www.w3.org/2000/svg" width="24" height="23.997" viewBox="0 0 24 23.997">
+  <g id="Group_1199" data-name="Group 1199" transform="translate(0 0)">
+    <g id="Group_1198" data-name="Group 1198" transform="translate(0 0)">
+      <path id="Path_1292" data-name="Path 1292" d="M9.75.027A9.76,9.76,0,0,0,0,9.776,9.634,9.634,0,0,0,1.48,14.937L.053,18.5a.75.75,0,0,0,.976.975l3.559-1.426a9.622,9.622,0,0,0,5.161,1.48,9.749,9.749,0,0,0,0-19.5Z" transform="translate(0 -0.027)" fill="#00b0c4"/>
+    </g>
+  </g>
+  <g id="Group_1201" data-name="Group 1201" transform="translate(10.393 10.394)">
+    <g id="Group_1200" data-name="Group 1200">
+      <path id="Path_1293" data-name="Path 1293" d="M234.141,231.455a8.263,8.263,0,0,0-.517-9.376.749.749,0,1,0-1.185.918,6.766,6.766,0,0,1,.243,7.949.749.749,0,0,0-.078.7l.657,1.648-1.648-.657a.749.749,0,0,0-.7.078,6.862,6.862,0,0,1-7.949-.244.75.75,0,1,0-.921,1.185,8.394,8.394,0,0,0,9.377.517l2.908,1.161a.807.807,0,0,0,.28.052.749.749,0,0,0,.7-1.027Z" transform="translate(-221.749 -221.787)" fill="#00b0c4"/>
+    </g>
+  </g>
+  <circle id="Ellipse_199" data-name="Ellipse 199" cx="1" cy="1" r="1" transform="translate(4.891 8.746)" fill="#fff"/>
+  <circle id="Ellipse_200" data-name="Ellipse 200" cx="1" cy="1" r="1" transform="translate(8.891 8.746)" fill="#fff"/>
+  <circle id="Ellipse_201" data-name="Ellipse 201" cx="1" cy="1" r="1" transform="translate(12.891 8.746)" fill="#fff"/>
+</svg>

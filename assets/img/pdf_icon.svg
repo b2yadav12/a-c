@@ -1,0 +1,13 @@
+<svg id="pdf_icon" xmlns="http://www.w3.org/2000/svg" width="16.758" height="22" viewBox="0 0 16.758 22">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f63837;
+      }
+    </style>
+  </defs>
+  <path id="Path_1331" data-name="Path 1331" class="cls-1" d="M66.854,0,61,5.854V22H77.758V0Zm-.377,2.2V5.476H63.2Zm9.993,18.51H62.289V6.766h5.476V1.289h8.7Z" transform="translate(-61)"/>
+  <path id="Path_1332" data-name="Path 1332" class="cls-1" d="M130.2,222.336h-1.744v3.621h1.221v-.889h.523c1.009,0,1.65-.528,1.65-1.366S131.209,222.336,130.2,222.336Zm-.078,1.79h-.445v-.848h.445c.336,0,.5.161.5.424S130.459,224.126,130.123,224.126Z" transform="translate(-125.558 -212.783)"/>
+  <path id="Path_1333" data-name="Path 1333" class="cls-1" d="M217.906,222.336v3.621h1.785a1.824,1.824,0,1,0,0-3.621Zm2.6,1.811a.8.8,0,0,1-.864.859h-.512v-1.718h.512A.8.8,0,0,1,220.5,224.147Z" transform="translate(-211.164 -212.783)"/>
+  <path id="Path_1334" data-name="Path 1334" class="cls-1" d="M319.772,224.8h1.51v-.921h-1.51v-.621H321.5v-.921h-2.944v3.621h1.221Z" transform="translate(-307.484 -212.783)"/>
+</svg>

@@ -1,0 +1,15 @@
+<svg id="check_icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="9.882" height="7" viewBox="0 0 9.882 7">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_1389" data-name="Path 1389" d="M7.342-12.668l5.353-5.353.824.823L7.342-11.021,3.636-14.727l.823-.823Z" transform="translate(-3.636 18.021)" fill="#fff"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Path_1388" data-name="Path 1388" d="M-352-362.392H1828.184V-1824H-352Z" transform="translate(352 1824)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Group_1308" data-name="Group 1308" clip-path="url(#clip-path)">
+    <g id="Group_1307" data-name="Group 1307" transform="translate(-207.092 -1051.647)" clip-path="url(#clip-path-2)">
+      <path id="Path_1387" data-name="Path 1387" d="M-1.364-23.021H14.342V-10.2H-1.364Z" transform="translate(205.544 1071.757)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg id="video_icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="10.182" viewBox="0 0 14 10.182">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_423" data-name="Path 423" d="M11.182-16.691,14.5-19.014a.318.318,0,0,1,.33-.022.318.318,0,0,1,.171.283v7.687a.318.318,0,0,1-.171.283.318.318,0,0,1-.33-.022l-3.317-2.323v2.673a.636.636,0,0,1-.636.636H1.636A.636.636,0,0,1,1-10.455v-8.909A.636.636,0,0,1,1.636-20h8.909a.636.636,0,0,1,.636.636Zm-7.636-.764v1.273H4.818v-1.273Z" transform="translate(-1 20)" fill="#b1b1b1"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Path_422" data-name="Path 422" d="M-2812,550.273H-429.454V-1047H-2812Z" transform="translate(2812 1047)" fill="#b1b1b1"/>
+    </clipPath>
+  </defs>
+  <g id="Group_781" data-name="Group 781" clip-path="url(#clip-path)">
+    <g id="Group_780" data-name="Group 780" transform="translate(-1790.091 -653.545)" clip-path="url(#clip-path-2)">
+      <path id="Path_421" data-name="Path 421" d="M-4-25H16.364V-8.455H-4Z" transform="translate(1790.909 675.364)" fill="#b1b1b1"/>
+    </g>
+  </g>
+</svg>

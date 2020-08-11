@@ -1,0 +1,15 @@
+<svg id="call_icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="13.999" viewBox="0 0 14 13.999">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_420" data-name="Path 420" d="M17-10.563v2.75a.778.778,0,0,1-.723.776c-.34.023-.618.036-.832.036A12.443,12.443,0,0,1,3-19.445q0-.322.036-.832A.778.778,0,0,1,3.812-21h2.75a.389.389,0,0,1,.387.35c.018.179.034.321.05.429a10.811,10.811,0,0,0,.94,3.112.354.354,0,0,1-.114.441l-1.678,1.2a10.147,10.147,0,0,0,5.323,5.323l1.2-1.675a.359.359,0,0,1,.446-.116A10.811,10.811,0,0,0,16.223-11c.108.016.25.033.428.05a.389.389,0,0,1,.349.387Z" transform="translate(-3 21)" fill="#b1b1b1"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Path_419" data-name="Path 419" d="M-1720,82.114H1191.838V-1870H-1720Z" transform="translate(1720 1870)" fill="#b1b1b1"/>
+    </clipPath>
+  </defs>
+  <g id="Group_778" data-name="Group 778" clip-path="url(#clip-path)">
+    <g id="Group_777" data-name="Group 777" transform="translate(-1340.037 -1438.031)" clip-path="url(#clip-path-2)">
+      <path id="Path_418" data-name="Path 418" d="M-2-26H19.777V-4.223H-2Z" transform="translate(1338.148 1460.143)" fill="#b1b1b1"/>
+    </g>
+  </g>
+</svg>

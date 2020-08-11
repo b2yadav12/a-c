@@ -1,0 +1,15 @@
+<svg id="red_money_icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="10.8" height="12" viewBox="0 0 10.8 12">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_399" data-name="Path 399" d="M11.4-13.6h1.2v-7.2h-6v1.2h4.8Zm0,1.2v1.8a.6.6,0,0,1-.6.6H3.6a.6.6,0,0,1-.427-.174A.6.6,0,0,1,3-10.6L3-19a.6.6,0,0,1,.6-.6H5.4v-1.8A.6.6,0,0,1,6-22h7.2a.6.6,0,0,1,.6.6V-13a.6.6,0,0,1-.6.6Zm-6-1.2v1.2H6.6v.6H7.8v-.6h.3a1.5,1.5,0,0,0,1.5-1.5,1.5,1.5,0,0,0-1.5-1.5H6.3a.3.3,0,0,1-.3-.3.3.3,0,0,1,.3-.3H9v-1.2H7.8v-.6H6.6v.6H6.3a1.5,1.5,0,0,0-1.5,1.5,1.5,1.5,0,0,0,1.5,1.5H8.1a.3.3,0,0,1,.3.3.3.3,0,0,1-.3.3Z" transform="translate(-3 22)" fill="#fc573b"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Path_398" data-name="Path 398" d="M-1336,654H910.4V-852H-1336Z" transform="translate(1336 852)" fill="#fc573b"/>
+    </clipPath>
+  </defs>
+  <g id="Group_737" data-name="Group 737" clip-path="url(#clip-path)">
+    <g id="Group_736" data-name="Group 736" transform="translate(-803.399 -497.999)" clip-path="url(#clip-path-2)">
+      <path id="Path_397" data-name="Path 397" d="M-2-27H14.8V-9H-2Z" transform="translate(802.399 521.999)" fill="#fc573b"/>
+    </g>
+  </g>
+</svg>
